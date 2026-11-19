@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.env
+orchestration.db
+logs/
+sample_data/
+checkpoints.sqlite
+ui_history.json
+project_structure.md
+.pytest_cache/
